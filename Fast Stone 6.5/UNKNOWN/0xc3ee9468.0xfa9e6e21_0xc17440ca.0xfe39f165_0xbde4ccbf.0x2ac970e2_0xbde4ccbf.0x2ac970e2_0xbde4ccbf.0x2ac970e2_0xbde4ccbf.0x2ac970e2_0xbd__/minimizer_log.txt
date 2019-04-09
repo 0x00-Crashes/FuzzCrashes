@@ -1,0 +1,113 @@
+Minimizer initializing for C:\FOE2\fuzzdir\campaign_tuvtrt\iteration_xdwiju\foe-crash-m7qwpv\sf_1958cb29fd7f80970fde7bb6755c989e-c4twfm-0xffffffffe4004588.tiff
+	using debugger timeout: 1.41893
+	confidence level: 0.99900
+	starting Hamming Distance is 241
+Attempting to minimize crash(es) [0xc17440ca.0xef5ae8e7, 0x1f286ab4.0x61e98ce7, 0xbde4ccbf.0x2ac970e2, 0x112131ac.0xff83a01d]
+start=241 min=241 target_guess=1 curr=113 chance=0.50000 miss=0/11 total_misses=0/1 u_crashes=0
+start=241 min=241 target_guess=1 curr=126 chance=0.50000 miss=1/11 total_misses=1/2 u_crashes=0
+start=241 min=241 target_guess=1 curr=118 chance=0.50000 miss=2/11 total_misses=2/3 u_crashes=0
+start=241 min=241 target_guess=1 curr=121 chance=0.50000 miss=3/11 total_misses=3/4 u_crashes=0
+start=241 min=241 target_guess=1 curr=133 chance=0.50000 miss=4/11 total_misses=4/5 u_crashes=0
+start=241 min=241 target_guess=1 curr=116 chance=0.50000 miss=5/11 total_misses=5/6 u_crashes=0
+start=241 min=241 target_guess=1 curr=117 chance=0.50000 miss=6/11 total_misses=6/7 u_crashes=0
+start=241 min=241 target_guess=1 curr=132 chance=0.50000 miss=7/11 total_misses=7/8 u_crashes=0
+start=241 min=241 target_guess=1 curr=120 chance=0.50000 miss=8/11 total_misses=8/9 u_crashes=0
+start=241 min=241 target_guess=1 curr=133 chance=0.50000 miss=9/11 total_misses=9/10 u_crashes=0
+start=241 min=241 target_guess=1 curr=113 chance=0.50000 miss=10/11 total_misses=10/11 u_crashes=0
+start=241 min=241 target_guess=1 curr=125 chance=0.50000 miss=11/11 total_misses=11/12 u_crashes=0
+start=241 min=241 target_guess=2 curr=157 chance=0.33333 miss=0/12 total_misses=12/13 u_crashes=0
+start=241 min=241 target_guess=2 curr=155 chance=0.33333 miss=1/12 total_misses=13/14 u_crashes=0
+start=241 min=241 target_guess=2 curr=160 chance=0.33333 miss=2/12 total_misses=14/15 u_crashes=0
+start=241 min=241 target_guess=2 curr=172 chance=0.33333 miss=3/12 total_misses=15/16 u_crashes=0
+start=241 min=241 target_guess=2 curr=166 chance=0.33333 miss=4/12 total_misses=16/17 u_crashes=0
+start=241 min=241 target_guess=2 curr=159 chance=0.33333 miss=5/12 total_misses=17/18 u_crashes=0
+start=241 min=241 target_guess=2 curr=146 chance=0.33333 miss=6/12 total_misses=18/19 u_crashes=0
+start=241 min=241 target_guess=2 curr=157 chance=0.33333 miss=7/12 total_misses=19/20 u_crashes=0
+start=241 min=241 target_guess=2 curr=160 chance=0.33333 miss=8/12 total_misses=20/21 u_crashes=0
+start=241 min=241 target_guess=2 curr=149 chance=0.33333 miss=9/12 total_misses=21/22 u_crashes=0
+start=241 min=241 target_guess=2 curr=172 chance=0.33333 miss=10/12 total_misses=22/23 u_crashes=0
+start=241 min=241 target_guess=2 curr=156 chance=0.33333 miss=11/12 total_misses=23/24 u_crashes=0
+start=241 min=241 target_guess=2 curr=167 chance=0.33333 miss=12/12 total_misses=24/25 u_crashes=0
+start=241 min=241 target_guess=3 curr=184 chance=0.25000 miss=0/13 total_misses=25/26 u_crashes=0
+start=241 min=241 target_guess=3 curr=178 chance=0.25000 miss=1/13 total_misses=26/27 u_crashes=0
+start=241 min=241 target_guess=3 curr=181 chance=0.25000 miss=2/13 total_misses=27/28 u_crashes=0
+start=241 min=241 target_guess=3 curr=179 chance=0.25000 miss=3/13 total_misses=28/29 u_crashes=0
+start=241 min=241 target_guess=3 curr=175 chance=0.25000 miss=4/13 total_misses=29/30 u_crashes=0
+start=241 min=241 target_guess=3 curr=177 chance=0.25000 miss=5/13 total_misses=30/31 u_crashes=0
+start=241 min=241 target_guess=3 curr=190 chance=0.25000 miss=6/13 total_misses=31/32 u_crashes=0
+start=241 min=241 target_guess=3 curr=179 chance=0.25000 miss=7/13 total_misses=32/33 u_crashes=0
+start=241 min=241 target_guess=3 curr=176 chance=0.25000 miss=8/13 total_misses=33/34 u_crashes=0
+start=241 min=241 target_guess=3 curr=177 chance=0.25000 miss=9/13 total_misses=34/35 u_crashes=0
+start=241 min=241 target_guess=3 curr=190 chance=0.25000 miss=10/13 total_misses=35/36 u_crashes=0
+start=241 min=241 target_guess=3 curr=176 chance=0.25000 miss=11/13 total_misses=36/37 u_crashes=0
+start=241 min=241 target_guess=3 curr=182 chance=0.25000 miss=12/13 total_misses=37/38 u_crashes=0
+start=241 min=241 target_guess=3 curr=182 chance=0.25000 miss=13/13 total_misses=38/39 u_crashes=0
+start=241 min=241 target_guess=4 curr=188 chance=0.20000 miss=0/14 total_misses=39/40 u_crashes=0
+start=241 min=241 target_guess=4 curr=187 chance=0.20000 miss=1/14 total_misses=40/41 u_crashes=0
+start=241 min=241 target_guess=4 curr=185 chance=0.20000 miss=2/14 total_misses=41/42 u_crashes=0
+start=241 min=241 target_guess=4 curr=190 chance=0.20000 miss=3/14 total_misses=42/43 u_crashes=0
+start=241 min=241 target_guess=4 curr=200 chance=0.20000 miss=4/14 total_misses=43/44 u_crashes=0
+start=241 min=241 target_guess=4 curr=195 chance=0.20000 miss=5/14 total_misses=44/45 u_crashes=0
+start=241 min=241 target_guess=4 curr=202 chance=0.20000 miss=6/14 total_misses=45/46 u_crashes=0
+start=241 min=241 target_guess=4 curr=190 chance=0.20000 miss=7/14 total_misses=46/47 u_crashes=0
+start=241 min=241 target_guess=4 curr=199 chance=0.20000 miss=8/14 total_misses=47/48 u_crashes=0
+start=241 min=241 target_guess=4 curr=198 chance=0.20000 miss=9/14 total_misses=48/49 u_crashes=0
+start=241 min=241 target_guess=4 curr=193 chance=0.20000 miss=10/14 total_misses=49/50 u_crashes=0
+start=241 min=241 target_guess=4 curr=193 chance=0.20000 miss=11/14 total_misses=50/51 u_crashes=0
+start=241 min=241 target_guess=4 curr=200 chance=0.20000 miss=12/14 total_misses=51/52 u_crashes=0
+start=241 min=241 target_guess=4 curr=188 chance=0.20000 miss=13/14 total_misses=52/53 u_crashes=0
+start=241 min=241 target_guess=4 curr=189 chance=0.20000 miss=14/14 total_misses=53/54 u_crashes=0
+start=241 min=241 target_guess=5 curr=214 chance=0.16667 miss=0/14 total_misses=54/55 u_crashes=0
+start=241 min=241 target_guess=5 curr=218 chance=0.16667 miss=1/14 total_misses=55/56 u_crashes=0
+start=241 min=241 target_guess=5 curr=208 chance=0.16667 miss=2/14 total_misses=56/57 u_crashes=0
+start=241 min=241 target_guess=5 curr=204 chance=0.16667 miss=3/14 total_misses=57/58 u_crashes=0
+start=241 min=241 target_guess=5 curr=215 chance=0.16667 miss=4/14 total_misses=58/59 u_crashes=0
+start=241 min=241 target_guess=5 curr=205 chance=0.16667 miss=5/14 total_misses=59/60 u_crashes=0
+start=241 min=241 target_guess=5 curr=203 chance=0.16667 miss=6/14 total_misses=60/61 u_crashes=0
+start=241 min=241 target_guess=5 curr=201 chance=0.16667 miss=7/14 total_misses=61/62 u_crashes=0
+start=241 min=241 target_guess=5 curr=197 chance=0.16667 miss=8/14 total_misses=62/63 u_crashes=0
+start=241 min=241 target_guess=5 curr=193 chance=0.16667 miss=9/14 total_misses=63/64 u_crashes=0
+start=241 min=241 target_guess=5 curr=196 chance=0.16667 miss=10/14 total_misses=64/65 u_crashes=0
+start=241 min=241 target_guess=5 curr=197 chance=0.16667 miss=11/14 total_misses=65/66 u_crashes=0
+start=241 min=241 target_guess=5 curr=193 chance=0.16667 miss=12/14 total_misses=66/67 u_crashes=0
+start=241 min=241 target_guess=5 curr=193 chance=0.16667 miss=13/14 total_misses=67/68 u_crashes=0
+crash=0x112131ac.0xff83a01d signal=None
+start=241 min=193 target_guess=5 curr=165 chance=0.16667 miss=0/15 total_misses=67/69 u_crashes=1
+start=241 min=165 target_guess=5 curr=127 chance=0.16667 miss=0/14 total_misses=67/70 u_crashes=1
+start=241 min=127 target_guess=5 curr=98 chance=0.16667 miss=0/15 total_misses=67/71 u_crashes=1
+start=241 min=127 target_guess=5 curr=107 chance=0.16667 miss=1/15 total_misses=68/72 u_crashes=1
+start=241 min=127 target_guess=5 curr=105 chance=0.16667 miss=2/15 total_misses=69/73 u_crashes=1
+start=241 min=127 target_guess=5 curr=112 chance=0.16667 miss=3/15 total_misses=70/74 u_crashes=1
+start=241 min=112 target_guess=5 curr=90 chance=0.16667 miss=0/15 total_misses=70/75 u_crashes=1
+start=241 min=90 target_guess=5 curr=71 chance=0.16667 miss=0/14 total_misses=70/76 u_crashes=1
+start=241 min=71 target_guess=5 curr=62 chance=0.16667 miss=0/15 total_misses=70/77 u_crashes=1
+start=241 min=71 target_guess=5 curr=61 chance=0.16667 miss=1/15 total_misses=71/78 u_crashes=1
+start=241 min=71 target_guess=5 curr=57 chance=0.16667 miss=2/15 total_misses=72/79 u_crashes=1
+start=241 min=71 target_guess=5 curr=57 chance=0.16667 miss=3/15 total_misses=73/80 u_crashes=1
+start=241 min=71 target_guess=5 curr=65 chance=0.16667 miss=4/15 total_misses=74/81 u_crashes=1
+start=241 min=65 target_guess=5 curr=53 chance=0.16667 miss=0/15 total_misses=74/82 u_crashes=1
+crash=0x1f286ab4.0x61e98ce7 signal=None
+start=241 min=53 target_guess=5 curr=47 chance=0.16667 miss=0/15 total_misses=74/83 u_crashes=2
+start=241 min=47 target_guess=5 curr=43 chance=0.16667 miss=0/15 total_misses=74/84 u_crashes=2
+crash=0xbde4ccbf.0x2ac970e2 signal=None
+start=241 min=43 target_guess=5 curr=40 chance=0.16667 miss=0/17 total_misses=74/85 u_crashes=3
+start=241 min=40 target_guess=5 curr=35 chance=0.16667 miss=0/16 total_misses=74/86 u_crashes=3
+start=241 min=35 target_guess=5 curr=32 chance=0.16667 miss=0/16 total_misses=74/87 u_crashes=3
+start=241 min=32 target_guess=5 curr=24 chance=0.16667 miss=0/18 total_misses=74/88 u_crashes=3
+start=241 min=24 target_guess=5 curr=21 chance=0.16667 miss=0/16 total_misses=74/89 u_crashes=3
+start=241 min=21 target_guess=5 curr=20 chance=0.16667 miss=0/20 total_misses=74/90 u_crashes=3
+start=241 min=21 target_guess=5 curr=16 chance=0.16667 miss=1/20 total_misses=75/91 u_crashes=3
+start=241 min=21 target_guess=5 curr=13 chance=0.16667 miss=2/20 total_misses=76/92 u_crashes=3
+start=241 min=13 target_guess=5 curr=12 chance=0.16667 miss=0/32 total_misses=76/93 u_crashes=3
+start=241 min=12 target_guess=5 curr=11 chance=0.16667 miss=0/19 total_misses=76/94 u_crashes=3
+start=241 min=11 target_guess=5 curr=9 chance=0.16667 miss=0/22 total_misses=76/95 u_crashes=3
+start=241 min=9 target_guess=5 curr=7 chance=0.16667 miss=0/38 total_misses=76/96 u_crashes=3
+start=241 min=7 target_guess=5 curr=4 chance=0.16667 miss=0/142 total_misses=76/97 u_crashes=3
+start=241 min=7 target_guess=5 curr=4 chance=0.16667 miss=1/142 total_misses=77/98 u_crashes=3
+start=241 min=7 target_guess=5 curr=6 chance=0.16667 miss=2/142 total_misses=78/99 u_crashes=3
+start=241 min=6 target_guess=5 curr=6 chance=0.16667 miss=0/142 total_misses=78/99 u_crashes=3
+We were looking for [0xc17440ca.0xef5ae8e7, 0x1f286ab4.0x61e98ce7, 0xbde4ccbf.0x2ac970e2, 0x112131ac.0xff83a01d] ...
+	...and found 0x1f286ab4.0x61e98ce7	7 times
+	...and found 0xbde4ccbf.0x2ac970e2	2 times
+	...and found 0x112131ac.0xff83a01d	12 times
+Bytemap: [998, 1598, 2299, 3233, 3244, 4716]

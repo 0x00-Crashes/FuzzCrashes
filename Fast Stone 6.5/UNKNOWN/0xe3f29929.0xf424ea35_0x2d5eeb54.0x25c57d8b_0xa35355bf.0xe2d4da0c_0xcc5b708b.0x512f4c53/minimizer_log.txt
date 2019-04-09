@@ -1,0 +1,19 @@
+Minimizer initializing for C:\FOE2\fuzzdir\campaign_nwfexj\iteration_j3vxsd\foe-crash-94hgmn\sf_1958cb29fd7f80970fde7bb6755c989e-fievfb-0x00000004.tiff
+	using debugger timeout: 1.20722
+	confidence level: 0.99900
+	starting Hamming Distance is 8
+Attempting to minimize crash(es) [0xc17440ca.0xb682124a]
+start=8 min=8 target_guess=1 curr=6 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+crash=0xc17440ca.0xb682124a signal=None
+start=8 min=6 target_guess=1 curr=2 chance=0.50000 miss=0/10 total_misses=0/2 u_crashes=1
+start=8 min=6 target_guess=1 curr=4 chance=0.50000 miss=1/10 total_misses=1/3 u_crashes=1
+start=8 min=6 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=2/4 u_crashes=1
+start=8 min=6 target_guess=1 curr=3 chance=0.50000 miss=3/10 total_misses=3/5 u_crashes=1
+start=8 min=6 target_guess=1 curr=4 chance=0.50000 miss=4/10 total_misses=4/6 u_crashes=1
+start=8 min=4 target_guess=1 curr=3 chance=0.50000 miss=0/10 total_misses=4/7 u_crashes=1
+start=8 min=4 target_guess=1 curr=2 chance=0.50000 miss=1/10 total_misses=5/8 u_crashes=1
+start=8 min=4 target_guess=1 curr=2 chance=0.50000 miss=2/10 total_misses=6/9 u_crashes=1
+start=8 min=2 target_guess=1 curr=2 chance=0.50000 miss=0/10 total_misses=6/9 u_crashes=1
+We were looking for [0xc17440ca.0xb682124a] ...
+	...and found 0xc17440ca.0xb682124a	3 times
+Bytemap: [3232, 3244]

@@ -1,0 +1,13 @@
+Minimizer initializing for C:\FOE2\fuzzdir\campaign_gqlm4q\iteration_snruum\foe-crash-7zp_et\sf_1958cb29fd7f80970fde7bb6755c989e-pdkxaf-0xffffffffffffffff.tiff
+	using debugger timeout: 1.11845
+	confidence level: 0.99900
+	starting Hamming Distance is 4
+Attempting to minimize crash(es) [0x60ed8aba.0x51890e46, 0xe1b039b1.0x1a1ff184, 0x112131ac.0xff83a01d]
+start=4 min=4 target_guess=1 curr=2 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=4 min=4 target_guess=1 curr=3 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=0
+start=4 min=4 target_guess=1 curr=2 chance=0.50000 miss=2/10 total_misses=2/3 u_crashes=0
+crash=0x112131ac.0xff83a01d signal=None
+start=4 min=2 target_guess=1 curr=2 chance=0.50000 miss=0/10 total_misses=2/3 u_crashes=1
+We were looking for [0x60ed8aba.0x51890e46, 0xe1b039b1.0x1a1ff184, 0x112131ac.0xff83a01d] ...
+	...and found 0x112131ac.0xff83a01d	1 times
+Bytemap: [3232, 3245]
